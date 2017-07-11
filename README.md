@@ -1,7 +1,7 @@
 # Markov_chain_est
 Markov chain estimation with RCS data
 
-This folder contains R and Stan codes for estimating a Markov chain model with RCS data.
+The zip file contains R and Stan codes for estimating a Markov chain model with RCS data.
 
 esimation.r: main code
 
