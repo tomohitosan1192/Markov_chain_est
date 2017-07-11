@@ -4,6 +4,7 @@ Markov chain estimation with RCS data
 This folder contains R and Stan codes for estimating a Markov chain model with RCS data.
 
 esimation.r: main code
+
 MCMC_logit.stan: model description
 
 For details, see Okabe, T. and Nogiwa D., ``Estimation of Unobserved Dynamics of Individual Partisanship: A Bayesian Approach", XXXXX, XX (20XX): - .
