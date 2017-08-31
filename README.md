@@ -7,6 +7,6 @@ esimation.r: main code
 
 MCMC_logit.stan: model description
 
-For details, see Okabe, T. and Nogiwa D., ``Estimation of Unobserved Dynamics of Individual Partisanship: A Bayesian Approach", XXXXX, XX (20XX): - .
+For details, see Okabe, T. and Nogiwa D., ``Estimation of Unobserved Dynamics of Individual Partisanship: A Bayesian Approach", Behaviormetrika (forthcoming): - .
 
 This code is free to use. When you use the code in your research, please cite the above paper.
